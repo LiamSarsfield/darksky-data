@@ -18,9 +18,14 @@ Resources used
 ###################
 Steps to test
 ###################
-1. Register to the platform by providing the details provided
-2. When logged in, you are shown a screen with the existing data from users. 
-		You can view this data by clicking "Actions" -> "View"
-		You can delete this data by clicking "Actions" -> "Delete"
-3. You can add existing data by clicking "Add data" above the table
-4. You can logout and be directed to the login screen by clicking "Logout"
+* Register to the platform by providing the details provided
+
+* When logged in, you are shown a screen with the existing data from users. 
+
+* You can view this data by clicking Actions then View
+
+* You can delete this data by clicking Action then Delete
+
+* You can add existing data by clicking "Add data" above the table
+
+* You can logout and be directed to the login screen by clicking "Logout"
