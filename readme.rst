@@ -7,6 +7,7 @@ The user registers to the platform and can request data from a location (using c
 ###################
 Resources used
 ###################
+* PHP 7+ with Codeigniter framework
 * jQuery 3.4.1
 * jQuery UI
 * jQuery validation engine
